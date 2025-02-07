@@ -4,7 +4,7 @@
 
 * As a user, I want easily browsable courses so I can find whatever I need.
 
-* As an educator, I want a platform where I can easily monetize my classes and courses.
+* As an educator, I want a platform where I can easily monetize my classes and courses with a barrier of entry not too high.
 
 * As a user, I want my instructors to be as high quality as possible, and having to go through a rigorous verification process.
 
