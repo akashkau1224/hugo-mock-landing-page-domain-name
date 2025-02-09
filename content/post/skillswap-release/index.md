@@ -33,7 +33,7 @@ We are excited to announce the launch of **SkillSwap**, a platform where **exper
 ## 🎉 Start Swapping Skills Today!
 Whether you’re looking to teach or learn, **SkillSwap** is the platform that makes both easier and more rewarding than ever. 
 
-👉 [Sign up now](../../../hugo-bootstrap-theme) to start teaching, learning, and earning with SkillSwap!
+👉 [Sign up now](../../../hugo-mock-landing-page) to start teaching, learning, and earning with SkillSwap!
 
 #SkillSwap #TeachAndEarn #LearningMadeEasy #OnlineEducation #KnowledgeIsPower
 
