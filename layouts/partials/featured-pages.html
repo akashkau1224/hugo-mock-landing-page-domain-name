@@ -1,9 +1,9 @@
-<div class="row row-cols-1 g-4">
+<div class="row row-cols-1 g-4 justify-content-center">
 
     {{ range .Site.Taxonomies.tags.featured }}
-        <div class="col">
+        <div class="col d-flex justify-content-center">
 
-            <div class="card">
+            <div class="card border border-warning">
                 <div class="card-body">
                     <h4 class="card-title">
                         <a class="stretched-link text-primary text-decoration-none" href="{{ .RelPermalink }}">
