@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Featured on SkillSwap</title>
+    <link>http://localhost:1313/hugo-mock-landing-page/tags/featured/</link>
+    <description>Recent content in Featured on SkillSwap</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Created by Akash Kaukuntla 2025</copyright>
+    <atom:link href="http://localhost:1313/hugo-mock-landing-page/tags/featured/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started</title>
+      <link>http://localhost:1313/hugo-mock-landing-page/page/instructor-guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-mock-landing-page/page/instructor-guide/</guid>
+      <description>&lt;h1 id=&#34;getting-started-as-an-instructor&#34;&gt;Getting Started as an Instructor&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to &lt;strong&gt;SkillSwap&lt;/strong&gt;! Follow this guide to start teaching and earning by sharing your expertise.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-sign-up--verify-your-expertise&#34;&gt;1️⃣ Sign Up &amp;amp; Verify Your Expertise&lt;/h2&gt;&#xA;&lt;p&gt;Before you can start teaching, you&amp;rsquo;ll need to:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Create an account&lt;/strong&gt; on SkillSwap.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Complete your profile&lt;/strong&gt; with details about your expertise.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Pass a skill verification test&lt;/strong&gt; to ensure high-quality content.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The test assesses your proficiency in the subject you want to teach.&lt;/li&gt;&#xA;&lt;li&gt;If necessary, provide credentials or certifications for additional verification.&lt;/li&gt;&#xA;&lt;li&gt;Once approved, you will receive an &lt;strong&gt;Instructor Badge&lt;/strong&gt; on your profile.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Once verified, you&amp;rsquo;re ready to create and manage your classes!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
