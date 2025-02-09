@@ -1,6 +1,6 @@
 ---
-title: "Markdown Cheat Sheet Ⓜ️⬇️"
-description: "An overview of basic markdown syntax."
+title: "Getting Started"
+description: "How to get started as an instructor!"
 draft: false
 tags: ["Featured"]
 images: ["markdown-guide-og.jpg"]

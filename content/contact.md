@@ -8,4 +8,8 @@ menu:
 
 # Contact
 
-[Open an issue](https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new) on GitHub.
+You can reach me at:
+
+- **Phone**: (267) 916-2812
+- **Email**: [akashkaukuntla1224@gmail.com](mailto:akashkaukuntla1224@gmail.com)  
+- **GitHub**: [github.com/akashkau1224](https://github.com/akashkau1224)  

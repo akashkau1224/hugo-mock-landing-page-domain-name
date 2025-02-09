@@ -1,7 +1,7 @@
 baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
-title = "Hugo Bootstrap Theme"
-author = "Filipe Carneiro"
-copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
+title = "SkillSwap"
+author = "Akash Kaukuntla"
+copyright = "Created by Akash Kaukuntla"
 
 timeZone = 'Europe/London'
 
@@ -47,3 +47,6 @@ enableEmoji = true
   [[module.mounts]]
     source = "static"
     target = "static"
+
+[params]
+  description = "SkillSwap: Learn. Teach. Earn."
