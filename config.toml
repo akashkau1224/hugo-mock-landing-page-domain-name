@@ -1,4 +1,5 @@
-baseURL = 'https://akashkau1224.github.io/hugo-mock-landing-page-domain-name/'
+# baseURL = 'https://akashkau1224.github.io/hugo-mock-landing-page-domain-name/'
+baseURL = 'http://skillswap.fun'
 title = "SkillSwap"
 author = "Akash Kaukuntla"
 copyright = "Created by Akash Kaukuntla 2025"
