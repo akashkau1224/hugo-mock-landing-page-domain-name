@@ -22,3 +22,11 @@ SkillSwap is an innovative platform where **experts** can share their knowledge 
 ---
 
 **SkillSwap** - Empowering learners and teachers everywhere.
+
+## Notes
+
+The domain that SkillSwap is hosted under is "skillswap.fun". For some reason, this domain is being blocked by the UPenn firewall and looks something like below when accessing this domain on university WiFi.
+
+![image](https://github.com/user-attachments/assets/fa7c2338-6337-449f-9dae-ae24c83f0e1c)
+
+Looking at the University Firewall FAQ, it seems they only filter and block "known threats" which is strange because I had just made this domain recently. I can only assume, it has some regex that filters for .fun domains, or maybe it found my website name suspicious? Very interesting nevertheless.
